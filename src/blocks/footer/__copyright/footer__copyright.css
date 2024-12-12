@@ -2,3 +2,10 @@
     text-align: right;
     color: #feafe8;
 }
+
+@media screen and (max-width: 600px) {
+
+    .footer__copyright {
+        text-align: left;
+    }
+}
