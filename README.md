@@ -1,4 +1,4 @@
-Basic preset for frontend projects using: HTML, CSS, JS, Gulp as a build tool, Stylelint for style checking, and Prettier for code formatting.
+Basic preset for frontend projects using: HTML, CSS, JS, Gulp as a build tool, Stylelint for style checking, Prettier for code formatting, and post-processing with PostCSS and HTML minification.
 
 ## Installation
 
